@@ -1,7 +1,7 @@
 """
     Title: Spirograph.py
 
-    Description: This is a program that brings up the turtle GUI, and draws four spirographs at the same time.
+    Description: This is a program that brings up the turtle graphics, and draws four spirographs at the same time.
                The spirographs are completely random, meaning everytime you run the program, you get something 
                different each time. You can show the turtles by clicking "T" and reset the spirographs by clicking 
                the "space" key.
